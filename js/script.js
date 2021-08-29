@@ -67,3 +67,28 @@ $(document).ready(function () {
         $(this).parent().addClass("active");
     });
 });
+
+// SECTION: highlighted menu item on scroll
+
+$(document).ready(function () {
+    $(window).scroll(function () {
+        $("section").each(function () {
+            const sectionName = $(this).attr("id");
+            const height = $(this).outerHeight();
+            const greaterTop = $(this).offset().top - 50;
+
+            if (
+                $(window).scrollTop() > greaterTop &&
+                $(window).scrollTop() < greaterTop + height
+            ) {
+                $(".navbar-nav li a[href='#" + sectionName + "']")
+                    .parent()
+                    .addClass("active");
+            } else {
+                $(".navbar-nav li a[href='#" + sectionName + "']")
+                    .parent()
+                    .removeClass("active");
+            }
+        });
+    });
+});
