@@ -58,3 +58,12 @@ $(document).ready(function () {
         }
     });
 });
+
+// SECTION: active menu item on click
+
+$(document).ready(function () {
+    $(".navbar-nav li a").click(function () {
+        $(".navbar-nav li a").parent().removeClass("active");
+        $(this).parent().addClass("active");
+    });
+});
