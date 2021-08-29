@@ -26,3 +26,11 @@
         text-align: center;
     }
 }
+
+/* medium devices, desktop */
+@media only screen and (min-width: 992px) {
+}
+
+/* large Devices, wide screen */
+@media only screen and (min-width: 1200px) {
+}
