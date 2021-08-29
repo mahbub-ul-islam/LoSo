@@ -92,3 +92,18 @@ $(document).ready(function () {
         });
     });
 });
+
+// SECTION: add auto padding to header
+
+$(document).ready(function () {
+    setInterval(function () {
+        const windowHeight = $(window).height();
+        const containerHeight = $(".header-container").height();
+        const paddingTop = windowHeight - containerHeight;
+
+        $(".header-container").css({
+            "padding-top": Math.round(paddingTop / 2) + "px",
+            "padding-bottom": Math.round(paddingTop / 2) + "px",
+        });
+    }, 10);
+});
