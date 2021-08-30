@@ -128,3 +128,9 @@ $(document).ready(function () {
         time: 2000,
     });
 });
+
+// add animation / infinite wow
+
+$(document).ready(function () {
+    new WOW().init();
+});
