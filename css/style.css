@@ -32,4 +32,13 @@ p {
     padding-bottom: 50px;
 }
 
+.section-title h2 {
+    position: relative;
+    text-align: center;
+    color: #333;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
 /*=====  End of general section  ======*/
