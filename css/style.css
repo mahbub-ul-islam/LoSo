@@ -22,3 +22,14 @@ p {
 }
 
 /*=====  End of Section comment block  ======*/
+
+/*=============================================
+=            SECTION: general section            =
+=============================================*/
+
+.section-title {
+    padding-top: 90px;
+    padding-bottom: 50px;
+}
+
+/*=====  End of general section  ======*/
