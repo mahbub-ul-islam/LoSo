@@ -107,3 +107,15 @@ $(document).ready(function () {
         });
     }, 10);
 });
+
+// SECTION: BX slider to screen section
+
+$(document).ready(function () {
+    $(".bxslider").bxSlider({
+        slideWidth: 292.5,
+        auto: true,
+        minSlides: 1,
+        maxSlides: 3,
+        slideMargin: 50,
+    });
+});
