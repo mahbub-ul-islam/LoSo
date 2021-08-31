@@ -62,3 +62,20 @@ p {
 }
 
 /*=====  End of general section  ======*/
+
+/*=============================================
+=           SECTION: Navbar Section comment block            =
+=============================================*/
+
+.navbar-default {
+    background-color: transparent;
+    border-color: #444;
+    z-index: 110;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+
+/*=====  End of Navbar Section comment block  ======*/
