@@ -102,4 +102,17 @@ p {
 .navbar-default .navbar-nav > li > a:focus {
     color: #b5b5b5;
 }
+
+.navbar-brand {
+    padding: 9px 15px;
+}
+
+.navbar-brand img {
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+
 /*=====  End of Navbar Section comment block  ======*/
