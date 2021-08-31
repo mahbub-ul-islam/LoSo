@@ -85,4 +85,14 @@ p {
     color: #129cf3;
 }
 
+.navbar-default .navbar-nav > li > a {
+    color: #b5b5b5;
+    font-family: "Raleway", sans-serif;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+
 /*=====  End of Navbar Section comment block  ======*/
