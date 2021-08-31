@@ -95,4 +95,11 @@ p {
     -o-transition: all 1s;
 }
 
+.navbar-default .navbar-nav > li > a:hover {
+    color: #129cf3;
+}
+
+.navbar-default .navbar-nav > li > a:focus {
+    color: #b5b5b5;
+}
 /*=====  End of Navbar Section comment block  ======*/
