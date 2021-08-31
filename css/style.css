@@ -136,4 +136,12 @@ p {
     background-size: cover;
 }
 
+.header-overlay {
+    background-color: rgba(31, 31, 31, 0.75);
+}
+
+.logo {
+    padding-bottom: 20px;
+}
+
 /*=====  End of header section  ======*/
