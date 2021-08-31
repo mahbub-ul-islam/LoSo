@@ -52,4 +52,13 @@ p {
     margin-left: -30px;
 }
 
+.section-title p {
+    color: #333;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 45px;
+}
+
 /*=====  End of general section  ======*/
