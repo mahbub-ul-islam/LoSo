@@ -191,4 +191,9 @@ p {
     -o-transition: all 1s;
 }
 
+.btn-download:hover {
+    background-color: #129cf3;
+    color: #fff;
+}
+
 /*=====  End of header section  ======*/
