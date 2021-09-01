@@ -155,4 +155,14 @@ p {
     /* letter-spacing: 0.1em; */
 }
 
+.header-text p {
+    color: #fff;
+    font-size: 17px;
+    line-height: 28px;
+    font-weight: 300;
+    /* extra */
+    /* text-transform: uppercase;
+    letter-spacing: 0.1em; */
+}
+
 /*=====  End of header section  ======*/
