@@ -212,4 +212,18 @@ p {
     -o-transition: all 1s;
 }
 
+.btn-tour:hover {
+    color: #fff;
+}
+
+.btn-tour i {
+    font-size: 20px;
+    padding-left: 5px;
+    color: #129cf3;
+}
+
+.header-iphone img {
+    width: 100%;
+}
+
 /*=====  End of header section  ======*/
