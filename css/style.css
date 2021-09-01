@@ -170,4 +170,25 @@ p {
     margin-bottom: 50px;
 }
 
+.btn-download,
+.btn-download:focus,
+.btn-download:active,
+.btn-download:visited {
+    background: transparent;
+    border-color: #129cf3;
+    padding: 10px 30px;
+    font-size: 19px;
+    text-transform: uppercase;
+    border-radius: 3px;
+    -webkit-border-radius: 3;
+    -moz-border-radius: 3;
+    -ms-border-radius: 3;
+    -o-border-radius: 3;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+
 /*=====  End of header section  ======*/
