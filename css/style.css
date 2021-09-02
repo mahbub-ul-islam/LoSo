@@ -274,4 +274,16 @@ p {
     padding-left: 80px;
 }
 
+.choose-us-item div {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.choose-us-item div i {
+    font-size: 55px;
+    color: #129cf3;
+    transition: all 1s;
+}
+
 /*=====  End of About Us Section  ======*/
