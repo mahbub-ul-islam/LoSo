@@ -262,4 +262,16 @@ p {
     bottom: -12px;
 }
 
+.choose-us-title p {
+    margin-top: 40px;
+    font-size: 19px;
+    line-height: 24px;
+}
+
+.choose-us-item {
+    position: relative;
+    padding-bottom: 4px;
+    padding-left: 80px;
+}
+
 /*=====  End of About Us Section  ======*/
