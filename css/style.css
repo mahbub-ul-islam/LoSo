@@ -244,4 +244,12 @@ p {
     padding-bottom: 50px;
 }
 
+.choose-us-title h2 {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 37px;
+    position: relative;
+}
+
 /*=====  End of About Us Section  ======*/
