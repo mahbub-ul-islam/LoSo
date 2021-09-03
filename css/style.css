@@ -354,4 +354,11 @@ p {
     font-weight: 300;
 }
 
+.testimonial-caption p {
+    color: #d8d8d8;
+    font-size: 18px;
+    line-height: 27px;
+    padding-top: 50px;
+}
+
 /*=====  End of testimonials Section comment block  ======*/
