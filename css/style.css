@@ -344,4 +344,14 @@ p {
     margin-top: 25px;
 }
 
+.testimonial-caption h4 {
+    color: #129cf3;
+}
+
+.testimonial-caption h4 span {
+    color: #d8d8d8;
+    font-style: italic;
+    font-weight: 300;
+}
+
 /*=====  End of testimonials Section comment block  ======*/
