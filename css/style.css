@@ -332,4 +332,16 @@ p {
     -o-border-radius: 50%;
 }
 
+.testimonial-caption {
+    padding-bottom: 70px;
+}
+
+.testimonial-caption h2 {
+    color: #129cf3;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 900;
+    margin-top: 25px;
+}
+
 /*=====  End of testimonials Section comment block  ======*/
