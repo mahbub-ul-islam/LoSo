@@ -299,3 +299,17 @@ p {
 }
 
 /*=====  End of About Us Section  ======*/
+
+/*=============================================
+=            SECTION: Testimonial section           =
+=============================================*/
+
+.testimonial {
+    background-image: url(../img/testimonial-bg.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+/*=====  End of testimonials Section comment block  ======*/
