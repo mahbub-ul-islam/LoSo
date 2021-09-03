@@ -312,4 +312,14 @@ p {
     background-position: 50% 50%;
 }
 
+.testimonial-overlay {
+    background-color: rgba(31, 31, 31, 0.75);
+    padding: 80px 0;
+}
+
+/* carousel */
+.carousel-indicators {
+    bottom: -10px;
+}
+
 /*=====  End of testimonials Section comment block  ======*/
