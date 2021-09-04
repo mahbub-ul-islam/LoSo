@@ -417,4 +417,15 @@ p {
     right: 0;
 }
 
+/* middle part */
+.feature-iphone img {
+    width: 100%;
+}
+
+/* right side feature */
+.right-feature-item {
+    padding-left: 90px;
+    text-align: left;
+}
+
 /*=====  End of Features Section comment block  ======*/
