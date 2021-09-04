@@ -407,4 +407,14 @@ p {
     line-height: 28px;
 }
 
+/* left side feature*/
+.left-feature-item {
+    padding-right: 90px;
+    text-align: right;
+}
+
+.left-feature-item-icon {
+    right: 0;
+}
+
 /*=====  End of Features Section comment block  ======*/
