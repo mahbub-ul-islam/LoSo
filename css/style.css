@@ -399,4 +399,12 @@ p {
     margin-bottom: 21px;
 }
 
+.left-feature-item p,
+.right-feature-item p {
+    color: #333;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+}
+
 /*=====  End of Features Section comment block  ======*/
