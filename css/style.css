@@ -390,4 +390,13 @@ p {
     top: -8px;
 }
 
+.left-feature-item h3,
+.right-feature-item h3 {
+    text-transform: uppercase;
+    color: #333;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 21px;
+}
+
 /*=====  End of Features Section comment block  ======*/
