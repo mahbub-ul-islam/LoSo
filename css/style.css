@@ -428,4 +428,8 @@ p {
     text-align: left;
 }
 
+.right-feature-item-icon {
+    left: 0;
+}
+
 /*=====  End of Features Section comment block  ======*/
