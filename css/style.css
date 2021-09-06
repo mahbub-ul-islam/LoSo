@@ -433,3 +433,14 @@ p {
 }
 
 /*=====  End of Features Section comment block  ======*/
+
+/*=============================================
+=           SECTION: Purchase Now Section comment block            =
+=============================================*/
+
+.purchase-now {
+    background-color: #1a1a1a;
+    padding: 100px 0;
+}
+
+/*=====  End of Purchase Now Section comment block  ======*/
