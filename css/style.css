@@ -484,4 +484,14 @@ p {
     background-position: 50% 50%;
 }
 
+.counter-overlay {
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 120px 0;
+}
+
+.counter-item i {
+    color: #129cf3;
+    font-size: 60px;
+}
+
 /*=====  End ofCounter Section comment block  ======*/
