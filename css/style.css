@@ -494,4 +494,14 @@ p {
     font-size: 60px;
 }
 
+.counter-item h2 {
+    font-family: "Source Sans Pro", sans-serif;
+    color: #d7dadb;
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 15px;
+    margin-bottom: 1px;
+}
+
 /*=====  End ofCounter Section comment block  ======*/
