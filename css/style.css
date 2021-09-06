@@ -471,3 +471,17 @@ p {
 }
 
 /*=====  End of Purchase Now Section comment block  ======*/
+
+/*=============================================
+=          SECTION: Counter Section comment block            =
+=============================================*/
+
+.counter {
+    background-image: url(../img/counter-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+/*=====  End ofCounter Section comment block  ======*/
