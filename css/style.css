@@ -449,4 +449,20 @@ p {
     font-weight: 300;
 }
 
+.btn-purchase-now,
+.btn-purchase-now:active,
+.btn-purchase-now:focus,
+.btn-purchase-now:visited {
+    background-color: #129cf3;
+    border: 1px solid #129cf3;
+    color: #fff;
+    padding: 15px 35px;
+    text-transform: uppercase;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+
 /*=====  End of Purchase Now Section comment block  ======*/
