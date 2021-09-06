@@ -465,4 +465,9 @@ p {
     -o-transition: all 1s;
 }
 
+.btn-purchase-now:hover {
+    background-color: #1274b1;
+    border-color: #316b90;
+}
+
 /*=====  End of Purchase Now Section comment block  ======*/
