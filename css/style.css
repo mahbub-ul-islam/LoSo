@@ -504,4 +504,12 @@ p {
     margin-bottom: 1px;
 }
 
+.counter-item p {
+    color: #d7dadb;
+    font-size: 20px;
+    margin-top: 0;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
 /*=====  End ofCounter Section comment block  ======*/
