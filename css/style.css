@@ -543,4 +543,13 @@ p {
     font-size: 30px;
 }
 
+.available-title p {
+    color: #b5b5b5;
+}
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
 /*=====  End of Available On Section comment block  ======*/
