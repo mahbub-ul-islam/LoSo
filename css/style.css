@@ -552,4 +552,17 @@ p {
     padding-right: 0;
 }
 
+.available-on-item {
+    text-align: center;
+    border: 1px solid #0f1217;
+    min-height: 230px;
+    padding-bottom: 15px;
+    position: relative;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+
 /*=====  End of Available On Section comment block  ======*/
