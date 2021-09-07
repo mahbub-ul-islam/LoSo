@@ -565,4 +565,8 @@ p {
     -o-transition: all 1s;
 }
 
+.available-on-item:hover {
+    background-color: #121212;
+}
+
 /*=====  End of Available On Section comment block  ======*/
