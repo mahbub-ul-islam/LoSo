@@ -513,3 +513,13 @@ p {
 }
 
 /*=====  End ofCounter Section comment block  ======*/
+
+/*=============================================
+=           SECTION: Download Now Section comment block            =
+=============================================*/
+
+.download-now img {
+    width: 100%;
+}
+
+/*=====  End of Download Now Section comment block  ======*/
