@@ -534,4 +534,13 @@ p {
     position: relative;
 }
 
+.available-title {
+    padding-top: 75px;
+}
+
+.available-title h2 {
+    color: #fff;
+    font-size: 30px;
+}
+
 /*=====  End of Available On Section comment block  ======*/
