@@ -569,4 +569,17 @@ p {
     background-color: #121212;
 }
 
+.available-on-item i {
+    color: #129cf3;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 90px;
+    opacity: 1;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+
 /*=====  End of Available On Section comment block  ======*/
