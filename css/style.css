@@ -523,3 +523,15 @@ p {
 }
 
 /*=====  End of Download Now Section comment block  ======*/
+
+/*=============================================
+=           SECTION: Available On Section comment block            =
+=============================================*/
+
+.available-on {
+    background-color: #1a1a1a;
+    margin-top: -8px;
+    position: relative;
+}
+
+/*=====  End of Available On Section comment block  ======*/
