@@ -645,4 +645,23 @@ p {
     resize: none;
 }
 
+.btn-submit,
+.btn-submit:active,
+.btn-submit:focus,
+.btn-submit:visited {
+    width: 100%;
+    height: 50px;
+    color: #129cf3;
+    background-color: transparent;
+    border: 1px solid #129cf3;
+    text-transform: uppercase;
+    font-size: 18px;
+    outline: 0 !important;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+
 /*=====  End of Contact Us Section comment block  ======*/
