@@ -680,4 +680,10 @@ p {
     text-align: center;
 }
 
+.social-icons ul li {
+    list-style: none;
+    display: inline;
+    padding-left: 10px;
+}
+
 /*=====  End of Contact Us Section comment block  ======*/
