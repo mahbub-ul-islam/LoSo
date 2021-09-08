@@ -582,4 +582,12 @@ p {
     -o-transition: all 1s;
 }
 
+.available-on-item:hover i {
+    opacity: 0;
+}
+
+.available-on-inner:hover {
+    opacity: 1;
+}
+
 /*=====  End of Available On Section comment block  ======*/
