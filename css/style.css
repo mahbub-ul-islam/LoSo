@@ -640,4 +640,9 @@ p {
     -o-transition: all 1s;
 }
 
+#message {
+    height: 117px;
+    resize: none;
+}
+
 /*=====  End of Contact Us Section comment block  ======*/
