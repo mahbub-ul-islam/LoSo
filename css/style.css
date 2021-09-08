@@ -670,4 +670,14 @@ p {
     border-color: #129cf3;
 }
 
+.social-icons {
+    padding: 50px 0 70px 0;
+}
+
+.social-icons ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
 /*=====  End of Contact Us Section comment block  ======*/
