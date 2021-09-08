@@ -664,4 +664,10 @@ p {
     -o-transition: all 1s;
 }
 
+.btn-submit:hover {
+    color: #fff;
+    background-color: #129cf3;
+    border-color: #129cf3;
+}
+
 /*=====  End of Contact Us Section comment block  ======*/
