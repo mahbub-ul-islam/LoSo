@@ -707,4 +707,14 @@ p {
     -o-transition: all 1s;
 }
 
+.social-icons ul li a:hover {
+    background-color: #129cf3;
+    border: 1px solid #129cf3;
+    color: #fff;
+}
+
+.social-icons ul li a i {
+    font-size: 20px;
+}
+
 /*=====  End of Contact Us Section comment block  ======*/
