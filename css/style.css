@@ -754,4 +754,9 @@ p {
     padding: 25px;
 }
 
+.scroll-top a i {
+    color: #fff;
+    font-size: 25px;
+}
+
 /*=====  End of Footer Section comment block  ======*/
