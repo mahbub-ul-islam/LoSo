@@ -718,3 +718,15 @@ p {
 }
 
 /*=====  End of Contact Us Section comment block  ======*/
+
+/*=============================================
+=           SECTION: Footer Section comment block            =
+=============================================*/
+
+.footer {
+    background-color: #1a1a1a;
+    padding: 35px 0;
+    border-bottom: 3px solid #129cf3;
+}
+
+/*=====  End of Footer Section comment block  ======*/
