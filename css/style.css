@@ -733,4 +733,11 @@ p {
     width: 50%;
 }
 
+#copyright p {
+    color: #8c8b8a;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
 /*=====  End of Footer Section comment block  ======*/
