@@ -740,4 +740,9 @@ p {
     text-transform: uppercase;
 }
 
+#copyright p a {
+    text-decoration: none;
+    color: #129cf3;
+}
+
 /*=====  End of Footer Section comment block  ======*/
