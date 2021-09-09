@@ -745,4 +745,13 @@ p {
     color: #129cf3;
 }
 
+.scroll-top {
+    text-align: right;
+}
+
+.scroll-top a {
+    background-color: #129cf3;
+    padding: 25px;
+}
+
 /*=====  End of Footer Section comment block  ======*/
